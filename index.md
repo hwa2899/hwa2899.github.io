@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
+permalink: /home-archive/
 author_profile: true
 ---
 Hi! This is the website for N121
